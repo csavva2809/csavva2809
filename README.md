@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##👨‍💻 What i am good at:<br></br>
+👨‍💻 What i am good at:
+<br></br>
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,fastapi,flask,html,css,js,linux,git)](https://skillicons.dev)
 
 
