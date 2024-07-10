@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 👨‍💻 What i am good at:
 <br></br>
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,fastapi,flask,html,css,js,linux,git)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,fastapi,flask,html,css,js,linux,git" />
+  </a>
+</p>
+
 
 
 ---
