@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,fastapi,flask,html,css,js,linux,git)](https://skillicons.dev)
 
 
 ---
