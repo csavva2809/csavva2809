@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💻 Tech Stack:
+#👨‍💻 What i am good at:
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,fastapi,flask,html,css,js,linux,git)](https://skillicons.dev)
 
 
