@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br></br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,fastapi,flask,sql,html,css,js,linux,git" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,fastapi,flask,sqlite,html,css,js,linux,git" />
   </a>
 </p>
 
