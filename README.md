@@ -15,7 +15,7 @@ fields_of_interests:
     "DevOps",
   ]
 ```
-👨‍💻 Some technologies i worked on and i am good at:
+👨‍💻 Some technologies i worked on:
 <br></br>
 <p align="center">
   <a href="https://skillicons.dev">
