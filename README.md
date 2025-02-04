@@ -34,12 +34,13 @@ Here are some ideas to get you started:
 <br></br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,fastapi,flask,sqlite,html,css,js,linux,git" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,fastapi,flask,sql,sqlite,html,css,js,linux,git" />
   </a>
 </p>
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csavva2809&show_icons=true)
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=csavva2809&icon=0&color=0)](https://visitcount.itsvg.in)
