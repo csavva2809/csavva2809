@@ -5,7 +5,7 @@ name: Konstantinos Savva
 located_in: Nicosia, Cyprus
 education:
   [
-    "Persuing a Bachelor's in Computer Sience",
+    "Bachelor's in Computer Sience",
   ]
 
 fields_of_interests:
