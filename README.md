@@ -13,12 +13,19 @@ fields_of_interests:
     "DevOps",
   ]
 ```
-👨‍💻 Some technologies i worked on:
-<br></br>
+## 👨‍💻 Technologies & Tools
+
+### 🐍 Programming Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,go,fastapi,spring,flask,postgres,react,linux,git" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,java,c,go" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚙️🎨 Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,flask,react" />
+</p>
+
+### ☁️ DevOps & System Administration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git" />
+</p>
