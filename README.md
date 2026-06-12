@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ```yaml
 name: Konstantinos Savva
 located_in: Nicosia, Cyprus
