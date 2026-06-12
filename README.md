@@ -17,7 +17,7 @@ fields_of_interests:
 <br></br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,go,fastapi,spring,flask,springboot,react,linux,git" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,go,fastapi,spring,flask,postgres,react,linux,git" />
   </a>
 </p>
 
