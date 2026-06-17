@@ -29,3 +29,9 @@ fields_of_interests:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git" />
 </p>
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casvva2809&layout=compact&theme=tokyonight" />
+</p>
