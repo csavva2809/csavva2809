@@ -15,23 +15,8 @@ fields_of_interests:
 ```
 ## 👨‍💻 Technologies & Tools
 
-### 🐍 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,go" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,go,fastapi,spring,flask,react,postgres,linux,git" />
 </p>
 
-### ⚙️🎨 Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,flask,react" />
-</p>
 
-### ☁️ DevOps & System Administration
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git" />
-</p>
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csavva2809&layout=compact&theme=tokyonight" />
-</p>
